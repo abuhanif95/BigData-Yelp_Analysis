@@ -1,5 +1,4 @@
 %pyspark
-
 # 1. Number of Users Joining Each Year
 
 df_users = spark.table("users")
